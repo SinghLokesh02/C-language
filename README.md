@@ -1,6 +1,6 @@
 # C Language Concepts Repository
 <p align="center">
-  <img src="https://some-image-api.com/c-logo" alt="C Logo" width="200">
+  <img src="https://source.unsplash.com/random/?coding,c-logo" alt="C Logo" width="400" height="400">
 </p>
 Welcome to the C Language Concepts Repository! This repository is designed to provide a comprehensive collection of fundamental and advanced concepts related to the C programming language. Whether you're a novice looking to learn the basics or an experienced developer seeking to deepen your understanding, you'll find valuable information here.
 
