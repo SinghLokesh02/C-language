@@ -1,0 +1,28 @@
+Practice Problems for Loops in C Programming
+
+
+1. Write a program to print all the numbers from 1 to 100.
+2. Write a program to find the sum of all numbers from 1 to 100.
+3. Write a program to find the factorial of a given number using a loop.
+4. Write a program to print the Fibonacci series up to a given number.
+5. Write a program to check whether a given number is prime or not.
+6. Write a program to print all prime numbers between two given numbers.
+7. Write a program to find the sum of digits of a given number.
+8. Write a program to reverse a given number.
+9. Write a program to check whether a given number is a palindrome or not.
+10. Write a program to generate the multiplication table of a given number.
+
+11. Write a program to find the GCD (Greatest Common Divisor) of two numbers.
+12. Write a program to find the sum of all even numbers between 1 to 100.
+13. Write a program to find the sum of all odd numbers between 1 to 100.
+14. Write a program to check whether a given year is a leap year or not.
+15. Write a program to find the factorial of a given number using recursion and iteration (compare their performance).
+16. Write a program to print Pascal's triangle.
+17. Write a program to find the LCM (Least Common Multiple) of two numbers.
+18. Write a program to find the Armstrong numbers between two given numbers.
+19. Write a program to find the number of digits in a given number.
+20. Write a program to check whether a given number is an Armstrong number or not.
+21. Write a program to find the sum of the first n natural numbers.
+22. Write a program to find the sum of the squares of the first n natural numbers.
+
+
