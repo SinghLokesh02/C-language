@@ -1,0 +1,28 @@
+1. Write a C program to find the sum of all elements in an array.
+2. Write a program to find the largest element in an array.
+3. Write a C program to find the smallest element in an array.
+4. Write a program to find the second largest element in an array.
+5. Write a C program to find the second smallest element in an array.
+6. Write a program to find the sum of elements at even indices and odd indices separately in an array.
+7. Write a C program to reverse an array.
+8. Write a program to check if an array is palindrome or not.
+9. Write a C program to merge two sorted arrays into a single sorted array.
+10. Write a program to find the frequency of each element in an array.
+11. Write a C program to rotate an array by a given number of elements.
+12. Write a program to find the missing number in an array of consecutive integers.
+13. Write a C program to find the majority element (element that appears more than n/2 times) in an array.
+14. Write a program to find the equilibrium index of an array (index where the sum of elements on the left is equal to the sum of elements on the right).
+15. Write a C program to sort an array using bubble sort, selection sort, insertion sort, or any other sorting algorithm of your choice.
+16. Write a program to find the intersection of two arrays.
+17. Write a C program to find the union of two arrays.
+18. Write a program to find the kth smallest element in an unsorted array.
+19. Write a C program to find the maximum product of two integers in an array.
+20. Write a program to find the maximum difference between two elements in an array such that the larger element appears after the smaller element.
+21. Write a C program to find the maximum sum subarray (contiguous subarray with the largest sum) in an array.
+22. Write a program to find the maximum sum subsequence (non-contiguous subsequence with the largest sum) in an array.
+23. Write a C program to find the longest increasing subsequence in an array.
+24. Write a program to find the longest common subsequence of two arrays.
+25. Write a C program to find the longest common substring of two arrays.
+26. Write a program to find the longest palindromic substring in an array.
+27. Write a C program to find the maximum length of a subarray with equal number of 0s and 1s.
+28. Write a program to find the maximum length of a subarray with sum equal to k.
