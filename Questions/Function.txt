@@ -1,0 +1,21 @@
+Give me a list of function based Practice Problems to solve in C.
+
+Ques1) Write a C function to find the factorial of a number.
+
+Ques2) Write a C function to check whether a number is prime or not.
+
+Ques3) Write a C function to find the sum of digits of a number.
+
+Ques4) Write a C function to reverse a number.
+
+Ques5) Write a C function to check whether a number is palindrome or not.
+
+Ques6) Write a C function to find the sum of first n natural numbers.
+
+Ques2) Write a C function to check whether a Composite is prime or not.
+
+
+
+
+
+
