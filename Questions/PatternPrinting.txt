@@ -97,3 +97,49 @@ For n = 5 (Take n as input from user)
     3 2 1
   4 3 2 1
 5 4 3 2 1
+
+11) Write a Program to Print the Following Pattern.
+
+Hollow Pyramid of given height
+
+For n = 5 (Take n as input from user)
+
+     *
+    * *
+   *   *
+  *     *
+ * * * * *
+
+
+12) Write a Program to Print the Following Pattern.
+Inverse Pyramid of given height
+For n = 5 (Take n as input from user)
+
+* * * * *
+ *     *
+  *   *
+   * *
+    *
+
+
+13) Write a Program to Print the Following Pattern.
+Hollow Square Pattern of given height
+For n = 5 (Take n as input from user)
+
+* * * * *
+*       *
+*       *
+*       *
+* * * * *
+
+
+14) Write a Program to Print the Following Pattern.
+Hollow Rhombus Pattern of given height
+
+For n = 5 (Take n as input from user)
+
+    * * * * *
+   *       *
+  *       *
+ *       *
+* * * * *
