@@ -1,0 +1,15 @@
+Basic Recursion Questions
+
+1) Print Your Name 5 times using recursion.
+2) Print numbers from 1 to N using recursion.
+3) Print numbers from N to 1 using recursion.
+4) Write a recursive function to calculate the factorial of a number.
+5) Write a recursive function to calculate the sum of the first n natural numbers.
+6) Write a recursive function to calculate the nth Fibonacci number.
+7) Write a recursive function to calculate the sum of digits of a positive integer.
+8) Write a recursive function to calculate the sum of elements of an array.
+9) Write a recursive function to calculate the power of a number.
+10) Write a recursive function to reverse a string.
+11) Write a recursive function to check if a string is a palindrome.
+12) Write a recursive function to calculate the mean of an array.
+ 
