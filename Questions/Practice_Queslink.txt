@@ -1,0 +1,14 @@
+Basic Level
+
+1) https://www.codechef.com/practice/course/strings/STRINGS/problems/HAPPYSTR
+2) https://www.codechef.com/practice/course/strings/STRINGS/problems/TITLECASE
+3) https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+4) https://www.geeksforgeeks.org/problems/third-largest-element/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+5) https://www.geeksforgeeks.org/problems/last-index-of-15847/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+6) https://www.geeksforgeeks.org/problems/find-unique-element2632/1?page=2&category=Arrays&difficulty=Basic&sortBy=submissions
+7) https://www.geeksforgeeks.org/problems/find-number-of-numbers/1?page=3&category=Arrays&difficulty=Basic&sortBy=submissions
+8) https://www.geeksforgeeks.org/problems/remove-duplicates-from-unsorted-array4141/1?page=3&category=Arrays&difficulty=Basic&sortBy=submissions
+9) https://www.geeksforgeeks.org/problems/count-the-numbers2359/1?page=4&category=Arrays&difficulty=Basic&sortBy=submissions
+10) https://www.geeksforgeeks.org/problems/last-duplicate-element-in-a-sorted-array5539/1?page=4&category=Arrays&difficulty=Basic&sortBy=submissions
+11) https://www.geeksforgeeks.org/problems/even-occurring-elements4332/1?page=6&category=Arrays&difficulty=Basic&sortBy=submissions
+12) https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1?page=1&category=Strings&difficulty=Basic&sortBy=submissions 
