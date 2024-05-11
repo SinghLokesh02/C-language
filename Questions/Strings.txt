@@ -1,15 +1,15 @@
 String Practice Questions
 
-1) Write a program in C++ to find the length of a string without using library functions.
-2) Write a program in C++ to print individual characters of a string in reverse order.
-3) Write a program in C++ to count the total number of vowels or consonants in a string.
-4) Write a C++ program to check whether a substring is present in a string.
-5) Write a program in C++ to find the number of times a given word 'the' appears in the given string
-6) Write a program in C++ to combine two strings manually.
-7) Write a program in C++ to convert a string to uppercase.
-8) Write a program in C++ to convert a string to lowercase.
-9) Write a program in C++ to check whether a letter is uppercase or not.
-10) Write a C++ program to convert vowels into uppercase characters in a string.
+1) Write a program in to find the length of a string without using library functions.
+2) Write a program in to print individual characters of a string in reverse order.
+3) Write a program in to count the total number of vowels or consonants in a string.
+4) Write a program to check whether a substring is present in a string.
+5) Write a program in to find the number of times a given word 'the' appears in the given string
+6) Write a program in to combine two strings manually.
+7) Write a program in to convert a string to uppercase.
+8) Write a program in to convert a string to lowercase.
+9) Write a program in to check whether a letter is uppercase or not.
+10) Write a program to convert vowels into uppercase characters in a string.
 11) Given a String print the string in reverse order.
 12) Check if a given string is palindrome or not.
 13) Given a string print the characters at odd positions.

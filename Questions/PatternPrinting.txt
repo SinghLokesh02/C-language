@@ -143,3 +143,12 @@ For n = 5 (Take n as input from user)
   *       *
  *       *
 * * * * *
+
+15) Write a Program to Print the Following Pattern.
+For n = 5 (Take n as input from user)
+
+    *
+   ***
+  *****
+ *******
+*********
