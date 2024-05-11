@@ -1,0 +1,28 @@
+Conditional Statement Practice Questions
+
+1) Check whether the given number is even or odd.
+2) Check whether the given number is positive or negative.
+3) Check whether the given number is divisible by 5 or not.
+4) Check whether the given number is a multiple of 3 and 5.
+5) Find the largest number among the given three numbers.
+
+6) Given marks of a student of 5 subjects check whether the student is pass or fail. (Passing marks: 40 in each subject)
+
+7) Given the age of a person, check whether the person is eligible to vote or not. (Eligible age: 18)
+
+8) Given the age of a person, check whether the person is a child, teenager, adult, or old.
+For children: 0-12 years
+For teenagers: 13-19 years
+For adults: 20-59 years
+For old: 60 and above
+
+9) Given the marks of a student, check whether the student is excellent, good, average, or poor.
+For excellent: marks >= 80
+For good: 60 <= marks < 80
+For average: 40 <= marks < 60
+For poor: marks < 40
+
+10) Given the three sides of a triangle, check whether the triangle is equilateral, isosceles, or scalene.
+For equilateral: all sides are equal
+For isosceles: any two sides are equal
+For scalene: no sides are equal
